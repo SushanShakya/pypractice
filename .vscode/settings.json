@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "python.pythonPath": "C:\\Users\\Sushan\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+}
